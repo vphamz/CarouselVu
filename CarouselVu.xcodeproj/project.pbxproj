@@ -7,12 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		283E32A41A919DD60065B9FA /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283E32A31A919DD60065B9FA /* FeedViewController.swift */; };
+		283E32A61A919F280065B9FA /* ConversationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283E32A51A919F280065B9FA /* ConversationViewController.swift */; };
+		283E32A81A91A0720065B9FA /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283E32A71A91A0720065B9FA /* SettingsViewController.swift */; };
 		28D6FD0D1A8E9B9200AF7DFA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D6FD0C1A8E9B9200AF7DFA /* AppDelegate.swift */; };
 		28D6FD0F1A8E9B9200AF7DFA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D6FD0E1A8E9B9200AF7DFA /* ViewController.swift */; };
 		28D6FD121A8E9B9200AF7DFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28D6FD101A8E9B9200AF7DFA /* Main.storyboard */; };
 		28D6FD141A8E9B9200AF7DFA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28D6FD131A8E9B9200AF7DFA /* Images.xcassets */; };
 		28D6FD171A8E9B9200AF7DFA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28D6FD151A8E9B9200AF7DFA /* LaunchScreen.xib */; };
 		28D6FD231A8E9B9200AF7DFA /* CarouselVuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D6FD221A8E9B9200AF7DFA /* CarouselVuTests.swift */; };
+		28D6FD2D1A8E9E4A00AF7DFA /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D6FD2C1A8E9E4A00AF7DFA /* Common.swift */; };
+		28D6FD2F1A8E9F3E00AF7DFA /* InitialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D6FD2E1A8E9F3E00AF7DFA /* InitialViewController.swift */; };
+		28D6FD311A8FE4C600AF7DFA /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D6FD301A8FE4C600AF7DFA /* SignInViewController.swift */; };
+		28D8C2B51A91983C00B5C234 /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D8C2B41A91983C00B5C234 /* TutorialViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +33,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		283E32A31A919DD60065B9FA /* FeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		283E32A51A919F280065B9FA /* ConversationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationViewController.swift; sourceTree = "<group>"; };
+		283E32A71A91A0720065B9FA /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		28D6FD071A8E9B9200AF7DFA /* CarouselVu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarouselVu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28D6FD0B1A8E9B9200AF7DFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28D6FD0C1A8E9B9200AF7DFA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +46,10 @@
 		28D6FD1C1A8E9B9200AF7DFA /* CarouselVuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarouselVuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28D6FD211A8E9B9200AF7DFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28D6FD221A8E9B9200AF7DFA /* CarouselVuTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselVuTests.swift; sourceTree = "<group>"; };
+		28D6FD2C1A8E9E4A00AF7DFA /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		28D6FD2E1A8E9F3E00AF7DFA /* InitialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitialViewController.swift; sourceTree = "<group>"; };
+		28D6FD301A8FE4C600AF7DFA /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		28D8C2B41A91983C00B5C234 /* TutorialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +97,12 @@
 				28D6FD131A8E9B9200AF7DFA /* Images.xcassets */,
 				28D6FD151A8E9B9200AF7DFA /* LaunchScreen.xib */,
 				28D6FD0A1A8E9B9200AF7DFA /* Supporting Files */,
+				28D6FD2E1A8E9F3E00AF7DFA /* InitialViewController.swift */,
+				28D6FD301A8FE4C600AF7DFA /* SignInViewController.swift */,
+				28D8C2B41A91983C00B5C234 /* TutorialViewController.swift */,
+				283E32A31A919DD60065B9FA /* FeedViewController.swift */,
+				283E32A51A919F280065B9FA /* ConversationViewController.swift */,
+				283E32A71A91A0720065B9FA /* SettingsViewController.swift */,
 			);
 			path = CarouselVu;
 			sourceTree = "<group>";
@@ -90,6 +110,7 @@
 		28D6FD0A1A8E9B9200AF7DFA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				28D6FD2C1A8E9E4A00AF7DFA /* Common.swift */,
 				28D6FD0B1A8E9B9200AF7DFA /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -213,7 +234,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				28D6FD0F1A8E9B9200AF7DFA /* ViewController.swift in Sources */,
+				28D6FD2D1A8E9E4A00AF7DFA /* Common.swift in Sources */,
+				283E32A61A919F280065B9FA /* ConversationViewController.swift in Sources */,
 				28D6FD0D1A8E9B9200AF7DFA /* AppDelegate.swift in Sources */,
+				28D6FD311A8FE4C600AF7DFA /* SignInViewController.swift in Sources */,
+				28D8C2B51A91983C00B5C234 /* TutorialViewController.swift in Sources */,
+				28D6FD2F1A8E9F3E00AF7DFA /* InitialViewController.swift in Sources */,
+				283E32A41A919DD60065B9FA /* FeedViewController.swift in Sources */,
+				283E32A81A91A0720065B9FA /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,6 +366,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = CarouselVu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -348,6 +377,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = CarouselVu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -407,6 +437,7 @@
 				28D6FD281A8E9B9200AF7DFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		28D6FD291A8E9B9200AF7DFA /* Build configuration list for PBXNativeTarget "CarouselVuTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +446,7 @@
 				28D6FD2B1A8E9B9200AF7DFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

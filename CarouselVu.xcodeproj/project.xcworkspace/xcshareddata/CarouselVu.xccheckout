@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6A6ECB6E-7AE1-4295-8700-406BDF88DEF4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CarouselVu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D5B2370F77AE2D39824D176509F6CF9BEE6230E1</key>
+		<string>https://github.com/vphamz/CarouselVu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CarouselVu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D5B2370F77AE2D39824D176509F6CF9BEE6230E1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vphamz/CarouselVu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D5B2370F77AE2D39824D176509F6CF9BEE6230E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5B2370F77AE2D39824D176509F6CF9BEE6230E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CarouselVu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
